@@ -13,7 +13,7 @@ my notes
 
 
 ## O3DE
-
+[TRIAGE_GUIDE.md](https://github.com/o3de/sig-network/blob/main/TRIAGE_GUIDE.md)
 ### for triage notes
 ask:
 > should we add tag:
