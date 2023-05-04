@@ -5,7 +5,7 @@ my notes
 
 
 show JT warframe tutorial video
-ask jt whether to use [title](link) or `title`[^drake] with link in reference
+ask jt whether to use '[title](link)' or '`title`[^drake]' with link in reference
 
 
 go back to talking about xyntopia/pydoxtools
