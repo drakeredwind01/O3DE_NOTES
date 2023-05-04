@@ -18,9 +18,10 @@ ask:
 > > [status/needs-testing](https://github.com/o3de/o3de/labels/status%2Fneeds-testing)
 
 mention this in everything so that it is always seen and gets done
-Add "triage-complete" label #15877
-https://github.com/o3de/o3de/issues/15877
-
+Add ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+```
+["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+```
 ## Example:
 > [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
 > 
