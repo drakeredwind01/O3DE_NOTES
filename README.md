@@ -5,8 +5,12 @@ my notes
 
 
 show JT warframe tutorial video
+
+## O3DE
+### how to handle links
 ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
-Example:
+
+## Example:
 > [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
 > [how-to-GitHub-markdown][^how-to-GitHub-markdown]
 > 
