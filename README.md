@@ -4,11 +4,15 @@ my notes
 
 - [text Sizes](#text-Size-1)
 
-show JT warframe tutorial video
+## show and tell JT
+[ ]                         Gene left me to triage
+[ ]                         ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
+[X] 2023.05.04.13.51.08.004 show JT warframe tutorial video
+
+
+
 
 ## O3DE
-### how to handle links
-ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
 
 ### for triage notes
 ask:
@@ -18,7 +22,8 @@ ask:
 > > [status/needs-testing](https://github.com/o3de/o3de/labels/status%2Fneeds-testing)
 
 mention this in everything so that it is always seen and gets done
-Add ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+[Feature Request add "Feature Request" label #15876](https://github.com/o3de/o3de/issues/15876)
 ```
 ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
 ```
