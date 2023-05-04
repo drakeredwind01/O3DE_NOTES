@@ -2,7 +2,7 @@
 my notes
 
 
-
+- [text Sizes](#text-Size-1)
 
 show JT warframe tutorial video
 
@@ -22,13 +22,13 @@ ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in refere
     [how-to-GitHub-markdown]
     
 
+## JT
+> go back to talking about xyntopia/pydoxtools
+> > making survival resources
+> really need work
+> show sigma delta list
 
-go back to talking about xyntopia/pydoxtools
-> making survival resources
-really need work
-show sigma delta list
-
-notes
+## notes
 > only ask don't suggest
 > make people notes on O3DE group
 > WIP (work in progress)
@@ -40,19 +40,6 @@ notes
 > > > gorila suit
 
 
-
-[^how-to-GitHub-markdown]: 
-   Testing testing one two three
-   how-to-GitHub-markdown
-   [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
-   [how-to-GitHub-markdown]
-
-blah blah[^how-to-GitHub-markdown2]
-
-[^how-to-GitHub-markdown2]
-    how-to-GitHub-markdown
-    [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
-    [how-to-GitHub-markdown]
 
 
 
