@@ -5,9 +5,9 @@ my notes
 - [text Sizes](#text-Size-1)
 
 ## show and tell JT
-[ ]                         Gene left me to triage
-[ ]                         ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
-[X] 2023.05.04.13.51.08.004 show JT warframe tutorial video
+- [ ]                         Gene left me to triage
+- [ ]                         ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
+- [X] 2023.05.04.13.51.08.004 show JT warframe tutorial video
 
 
 
