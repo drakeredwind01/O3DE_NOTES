@@ -16,7 +16,7 @@ ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in refere
 > 
 > 
 [^how-to-GitHub-markdown]:
-  (https://github.com/drakeredwind01/how-to-GitHub)
+  [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
 
 
 go back to talking about xyntopia/pydoxtools
