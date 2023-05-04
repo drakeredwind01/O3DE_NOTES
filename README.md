@@ -20,6 +20,7 @@ ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in refere
     how-to-GitHub-markdown
     [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
     [how-to-GitHub-markdown]
+    
 
 
 go back to talking about xyntopia/pydoxtools
@@ -40,13 +41,18 @@ notes
 
 
 
-[^how-to-GitHub-markdown]:
-   testing testing one two three
+[^how-to-GitHub-markdown]: 
+   Testing testing one two three
    how-to-GitHub-markdown
    [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
    [how-to-GitHub-markdown]
 
+blah blah[^how-to-GitHub-markdown2]
 
+[^how-to-GitHub-markdown2]
+    how-to-GitHub-markdown
+    [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
+    [how-to-GitHub-markdown]
 
 
 
