@@ -12,10 +12,11 @@ ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in refere
 
 ## Example:
 > [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
+> 
 > [how-to-GitHub-markdown1][^how-to-GitHub-markdown1]
 > 
 > 
-[^how-to-GitHub-markdown1]: blah blah
+[^how-to-GitHub-markdown1]: 
   testing testing one two three
   how-to-GitHub-markdown
   [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
