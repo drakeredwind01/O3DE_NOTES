@@ -10,6 +10,14 @@ show JT warframe tutorial video
 ### how to handle links
 ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
 
+### for triage notes
+ask:
+> should we add tag:
+> > [needs-priority](https://github.com/o3de/o3de/labels/needs-priority)
+> > [triage/needs-information](https://github.com/o3de/o3de/labels/triage%2Fneeds-information)
+> > [status/needs-testing](https://github.com/o3de/o3de/labels/status%2Fneeds-testing)
+
+
 ## Example:
 > [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
 > 
@@ -39,8 +47,8 @@ ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in refere
 > > tell them I only want short term projects
 > > > gorila suit
 
-
-
+## lookup
+> hudeny
 
 
 
