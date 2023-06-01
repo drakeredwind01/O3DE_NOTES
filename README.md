@@ -44,6 +44,12 @@ my notes
 > > making survival resources
 > really need work
 > show sigma delta list
+### contributed
+> [Add "triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+> https://github.com/o3de/o3de/issues/16028
+
+
+
 
 ## notes
 > only ask don't suggest
