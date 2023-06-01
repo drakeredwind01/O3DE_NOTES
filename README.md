@@ -41,25 +41,38 @@ my notes
 
 ## JT
 > go back to talking about xyntopia/pydoxtools
+> 
 > > making survival resources
+> > 
 > really need work
+> 
 > show sigma delta list
 ### contributed
 > [Add "triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
-> https://github.com/o3de/o3de/issues/16028
+> 
+> [Module Manager window pops-up when launching AutomatedTesting project with -rhi=Vulcan enabled #16028
+](https://github.com/o3de/o3de/issues/16028)
 
 
 
 
 ## notes
 > only ask don't suggest
+> 
 > make people notes on O3DE group
+> 
 > WIP (work in progress)
+> 
 > potential work
+> 
 > > mat bino in python group has a advertising group. tell him about my "ΑΣΩΓ" and see if they will hire me
+> > 
 > > retry arrow staffing for work
+> > 
 > > try technical staffing in san diego for work
+> > 
 > > tell them I only want short term projects
+> > 
 > > > gorila suit
 
 ## lookup
