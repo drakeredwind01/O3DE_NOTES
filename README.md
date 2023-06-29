@@ -22,11 +22,17 @@ my notes
 > > > > [triage/needs-information](https://github.com/o3de/o3de/labels/triage%2Fneeds-information)
 > > > > 
 > > > > [status/needs-testing](https://github.com/o3de/o3de/labels/status%2Fneeds-testing)
-
-> > mention this in everything so that it is always seen and gets done
-> > ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+> >
 > > 
-> > [Feature Request add "Feature Request" label #15876](https://github.com/o3de/o3de/issues/15876)
+> > 
+> > 
+> > mention this in everything so that it is always seen and gets done
+> > 
+> > > [Give drakeredwind01 labeling permission #16108](https://github.com/o3de/o3de/issues/16108)
+> > > 
+> > > ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
+> > > 
+> > > [Feature Request add "Feature Request" label #15876](https://github.com/o3de/o3de/issues/15876)
 ```
 ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
 ```
