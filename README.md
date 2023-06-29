@@ -18,7 +18,27 @@ my notes
 > > ask:
 > > > should we add tag:
 > > > > [needs-priority](https://github.com/o3de/o3de/labels/needs-priority)
-> > > > 
+> > > > >
+> > > > > [priority/critical](https://github.com/o3de/o3de/labels/priority%2Fcritical)
+> > > > >
+> > > > > > Critical priority. Must be actively worked on as someone's top priority right now.
+> > > > >
+> > > > > [priority/minor](https://github.com/o3de/o3de/labels/priority%2Fminor)
+> > > > >
+> > > > > > Lowest priority. Work that may be scheduled
+> > > > >
+> > > > > [priority/blocker](https://github.com/o3de/o3de/labels/priority%2Fblocker)
+> > > > >
+> > > > > > Highest priority. Must be actively worked on right now as it is blocking other work.
+> > > > >
+> > > > > [priority/major](https://github.com/o3de/o3de/labels/priority%2Fmajor)
+> > > > >
+> > > > > > Major priority. Work that should be handled after all blocking and critical work is done.
+> > > > >
+> > > > > [needs-priority](https://github.com/o3de/o3de/labels/needs-priority)
+> > > > >
+> > > > > > Indicates a PR lacks a `priority/foo` label and requires one.
+> > > > >
 > > > > [triage/needs-information](https://github.com/o3de/o3de/labels/triage%2Fneeds-information)
 > > > > 
 > > > > [status/needs-testing](https://github.com/o3de/o3de/labels/status%2Fneeds-testing)
