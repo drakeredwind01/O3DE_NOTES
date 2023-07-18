@@ -1,6 +1,7 @@
 # NOTES
 my notes
 
+python "D:\documents\ai\python\my-first-conda-project\_read to me args (with read time and csv stats) 1.py" "
 
 - [text Sizes](#text-Size-1)
 
@@ -54,6 +55,14 @@ my notes
 ```
 ["triage-complete" label #15877](https://github.com/o3de/o3de/issues/15877)
 ```
+
+## quetions to ask
+
+just wondering
+going to add feature "include build in window banner e.g. "O3DE 2.32 or Commit ID e5d4b63 (64-bit, windows) {other useful info} {project name}"
+also have a copyable version in the about for the O3DE engine.
+
+
 ## Example:
 > [how-to-GitHub-markdown](https://github.com/drakeredwind01/how-to-GitHub)
 > 
