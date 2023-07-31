@@ -3,6 +3,10 @@ my notes
 
 python "D:\documents\ai\python\my-first-conda-project\_read to me args (with read time and csv stats) 1.py" "
 
+commenter:drakeredwind01
+
+
+
 - [text Sizes](#text-Size-1)
 
 > ## show and tell JT
