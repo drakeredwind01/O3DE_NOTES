@@ -5,14 +5,13 @@ python "D:\documents\ai\python\my-first-conda-project\_read to me args (with rea
 
 commenter:drakeredwind01
 
-
+suggest removing `needs-triage` `needs-sig` and adding `triage/accepted`
 
 - [text Sizes](#text-Size-1)
 
 > ## show and tell JT
 > > - [ ]                         Gene left me to triage
-> > - [ ]                         ask jt whether to use ``[title](link)`` or ``title[^drake]`` with link in reference
-> > - [X] 2023.05.04.13.51.08.004 show JT warframe tutorial video
+> > - [ ]                         use ``[title](link)`` 
 
 
 
