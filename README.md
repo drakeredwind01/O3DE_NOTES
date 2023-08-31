@@ -117,6 +117,8 @@ also have a copyable version in the about for the O3DE engine.
 ## lookup
 > hudeny
 
-
+2023.08.31.10.52.48.346
+> Bug Report - Monolithic Game Export created via Export Script does not work in Output folder #16632
+> > Dependencies.xml missing
 
 
