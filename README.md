@@ -5,7 +5,7 @@ python "D:\documents\ai\python\my-first-conda-project\_read to me args (with rea
 
 commenter:drakeredwind01
 
-suggest removing `needs-triage` `needs-sig` and adding `triage/accepted`
+suggest removing `needs-triage` `needs-sig` and adding `triage/accepted`, `sig-network`, and `sig-security`
 
 - [text Sizes](#text-Size-1)
 
