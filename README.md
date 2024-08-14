@@ -75,7 +75,6 @@ https://github.com/o3de/sig-security/blob/main/TRIAGE_GUIDE.md
 - [text Sizes](#text-Size-1)
 
 > ## show and tell JT
-> > - [ ]                         Gene left me to triage
 > > - [ ]                         use ``[title](link)`` 
 
 
