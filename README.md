@@ -11,16 +11,22 @@ suggest removing `needs-triage` `needs-sig` and adding `triage/accepted`, `sig-n
 https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+
 
 1. Open issues with `needs-sig` label: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-sig
-2. Main O3DE repository: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fnetwork
-2. `OLD` Main O3DE repository: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fnetwork
-2. `NEW` Main O3DE repository: [https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fnetwork](https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+)
+   1. `OLD` 
+   2. `NEW` 
+2. Main O3DE repository: 
+   1. `OLD` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fnetwork
+   2. `NEW` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+
 >     altered is:issue is:open label:needs-triage label:sig/network
 >      to     is:issue is:open label:needs-triage -label:sig/network  -label:sig/build -label:sig/build  
-5. Multiplayer Sample: https://github.com/o3de/o3de-multiplayersample/labels/needs-triage
-6. NetSoak Test: https://github.com/o3de/o3de-netsoaktest/issues
-7. `OLD` [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) issues in: https://github.com/o3de/o3de-extras/labels/sig%2Fnetwork
-7. `NEW` [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) 
-         issues in: https://github.com/o3de/o3de-extras/issues?q=is%3Aopen+label%3Asig%2Fnetwork+++-label%3Asig%2Fnetwork+-label%3Asig%2Fcore+-label%3Asig%2Fbuild+-label%3Asig%2Fsimulation+-label%3Asig%2Frelease+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Fplatform+
+3. Multiplayer Sample: https://github.com/o3de/o3de-multiplayersample/labels/needs-triage
+   1. `OLD` 
+   2. `NEW` 
+4. NetSoak Test: https://github.com/o3de/o3de-netsoaktest/issues
+   1. `OLD` 
+   2. `NEW` 
+5. [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) issues in: 
+   1. `OLD` issues in: https://github.com/o3de/o3de-extras/labels/sig%2Fnetwork
+   2. `NEW` issues in: https://github.com/o3de/o3de-extras/issues?q=is%3Aopen+label%3Asig%2Fnetwork+++-label%3Asig%2Fnetwork+-label%3Asig%2Fcore+-label%3Asig%2Fbuild+-label%3Asig%2Fsimulation+-label%3Asig%2Frelease+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Fplatform+
 >     altered is:open label:sig/network  -label:sig/network
 >      to      is:open label:sig/network   -label:sig/network -label:sig/core -label:sig/build -label:sig/simulation -label:sig/release -label:sig/graphics-audio -label:sig/platform  
 
@@ -37,9 +43,14 @@ https://github.com/o3de/sig-security/blob/main/TRIAGE_GUIDE.md
 * O3DE known security issues: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
     * https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
     * https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity+-label%3Atriage%2Faccepted+-kind%3Akind%2Fsecurity
-* Dependabot alerts to check (link only accessible to SIG-Security maintainers): <br>`broken` https://github.com/o3de/o3de/security/dependabot
+* Dependabot alerts to check (link only accessible to SIG-Security maintainers): 
+  <br>`broken` https://github.com/o3de/o3de/security/dependabot
     * For new alerts, create new GitHub issues against [O3DE](https://github.com/o3de/o3de) and tag with `kind\security` label for tracking.
     * **WARNING**: Since the O3DE _python/requirements.txt_ file includes hashes, Dependabot-generated PRs against this file should be **manually tested** against a clean `/python` folder (that is, no `/runtime` child dir) **prior to merging** in order to suss out any issues with hashing transitive dependencies.
+
+
+
+
 
 
 | sig-{name}           | responsible for                        |
