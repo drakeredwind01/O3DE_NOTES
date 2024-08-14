@@ -19,9 +19,12 @@ https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+
 5. Multiplayer Sample: https://github.com/o3de/o3de-multiplayersample/labels/needs-triage
 6. NetSoak Test: https://github.com/o3de/o3de-netsoaktest/issues
 7. `OLD` [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) issues in: https://github.com/o3de/o3de-extras/labels/sig%2Fnetwork
-7. `NEW` [Multiplayer template]((https://github.com/o3de/o3de-extras/issues?q=is%3Aopen+label%3Asig%2Fnetwork++-label%3Asig%2Fnetwork+-label%3Asig%2Fcore+-label%3Asig%2Fbuild+-label%3Asig%2Fsimulation+-label%3Asig%2Frelease+-label%3Asig%2Fgraphics-audio+)) issues in: https://github.com/o3de/o3de-extras/labels/sig%2Fnetwork
+7. `NEW` [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) 
+         issues in: https://github.com/o3de/o3de-extras/issues?q=is%3Aopen+label%3Asig%2Fnetwork++-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+
 >     altered is:open label:sig/network  -label:sig/network
 >      to      is:open label:sig/network  -label:sig/network -label:sig/core -label:sig/build -label:sig/simulation -label:sig/release -label:sig/graphics-audio 
+
+
 
 ## O3DE sig-security - Issue Triage Guide
 https://github.com/o3de/sig-security/blob/main/TRIAGE_GUIDE.md
