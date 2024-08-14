@@ -20,9 +20,11 @@ https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+
 6. NetSoak Test: https://github.com/o3de/o3de-netsoaktest/issues
 7. `OLD` [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) issues in: https://github.com/o3de/o3de-extras/labels/sig%2Fnetwork
 7. `NEW` [Multiplayer template](https://github.com/o3de/o3de-extras/tree/development/Templates/Multiplayer) 
-         issues in: https://github.com/o3de/o3de-extras/issues?q=is%3Aopen+label%3Asig%2Fnetwork++-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+
+         issues in: https://github.com/o3de/o3de-extras/issues?q=is%3Aopen+label%3Asig%2Fnetwork+++-label%3Asig%2Fnetwork+-label%3Asig%2Fcore+-label%3Asig%2Fbuild+-label%3Asig%2Fsimulation+-label%3Asig%2Frelease+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Fplatform+
 >     altered is:open label:sig/network  -label:sig/network
->      to      is:open label:sig/network  -label:sig/network -label:sig/core -label:sig/build -label:sig/simulation -label:sig/release -label:sig/graphics-audio 
+>      to      is:open label:sig/network   -label:sig/network -label:sig/core -label:sig/build -label:sig/simulation -label:sig/release -label:sig/graphics-audio -label:sig/platform  
+
+
 
 
 
