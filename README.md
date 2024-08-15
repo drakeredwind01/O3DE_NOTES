@@ -53,6 +53,8 @@ https://github.com/o3de/sig-security/blob/main/TRIAGE_GUIDE.md
 
 
 
+
+
 | sig-{name}           | responsible for                        |
 |----------------------|----------------------------------------|
 | `sig-build`          | coding errors,                         |
@@ -70,6 +72,16 @@ https://github.com/o3de/sig-security/blob/main/TRIAGE_GUIDE.md
 | `sig-TAC/TSC`        |                                        |
 | `sig-mobile`         | phone, hand held, etc.                 |
 
+[Gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+| branch  | how to incorperate | notes                                                                |
+|---------|--------------------|----------------------------------------------------------------------|
+| bugfix: | [bugfix/]          | problem that should be fixed that doesn't add any new functionality  |
+| Feature | [feature/]         | an attribute or characteristic that adds value to the product.       |
+| Release | [release/]         | where the maintainers believe the software is worth trying and using |
+| Hotfix  | [hotfix/]          | should never use. needs to be added right away into production       |
+
+a patch is a change to a piece of software
 
 
 - [text Sizes](#text-Size-1)
