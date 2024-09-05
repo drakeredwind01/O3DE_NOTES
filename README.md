@@ -15,7 +15,7 @@ https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+
    2. `NEW` 
 2. Main O3DE repository: 
    1. `OLD` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fnetwork
-   2. `NEW` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+
+   2. `NEW` `works` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+
 >     altered is:issue is:open label:needs-triage label:sig/network
 >      to     is:issue is:open label:needs-triage -label:sig/network  -label:sig/build -label:sig/build  
 3. Multiplayer Sample: https://github.com/o3de/o3de-multiplayersample/labels/needs-triage
