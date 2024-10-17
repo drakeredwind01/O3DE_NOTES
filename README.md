@@ -39,10 +39,10 @@ https://github.com/o3de/sig-security/blob/main/TRIAGE_GUIDE.md
 
 * O3DE issues to triage for SIG:
     * https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fsecurity
-    * https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fsecurity+-label%3Asig%2Fbuild+-label%3Asig%2Fcontent+-label%3Asig%2Fcore+-label%3Asig%2Fdocs-community+-label%3Asig%2Fnetwork+-label%3Asig%2Fplatform+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Frelease+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting+-label%3Asig%2Fui-ux+-label%3Asig%2FTAC%2FTSC+-label%3Asig%2Fmobile+
-* O3DE known security issues: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
+    * `works`https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fsecurity+-label%3Asig%2Fbuild+-label%3Asig%2Fcontent+-label%3Asig%2Fcore+-label%3Asig%2Fdocs-community+-label%3Asig%2Fnetwork+-label%3Asig%2Fplatform+-label%3Asig%2Fgraphics-audio+-label%3Asig%2Frelease+-label%3Asig%2Fsimulation+-label%3Asig%2Ftesting+-label%3Asig%2Fui-ux+-label%3Asig%2FTAC%2FTSC+-label%3Asig%2Fmobile+
+* O3DE known security issues: 
     * https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
-    * https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity+-label%3Atriage%2Faccepted+-kind%3Akind%2Fsecurity
+    * `works`https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity+-label%3Atriage%2Faccepted+-kind%3Akind%2Fsecurity
 * Dependabot alerts to check (link only accessible to SIG-Security maintainers): 
   <br>`broken` https://github.com/o3de/o3de/security/dependabot
     * For new alerts, create new GitHub issues against [O3DE](https://github.com/o3de/o3de) and tag with `kind\security` label for tracking.
