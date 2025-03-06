@@ -10,9 +10,9 @@ suggest removing `needs-triage` `needs-sig` and adding `triage/accepted`, `sig-n
 ## O3DE Network SIG - Issue Triage Guide
 https://github.com/o3de/o3de/issues?q=is%3Aissue%20is%3Aopen%20label%3Aneeds-triage%20-label%3Asig%2Fnetwork%20%20--label%3Asig%2Fbuild%20--label%3Asig%2Fbuild%20%20--sig%2Fgraphics-audio%20%20--sig%2Fcontent
 
-1. Open issues with `needs-sig` label: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-sig
-   1. `OLD` 
-   2. `NEW` 
+1. Open issues with `needs-sig` label: 
+   1. `OLD` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-sig
+   2. `NEW` `works` https://github.com/o3de/o3de/issues?q=is%3Aissue%20is%3Aopen%20label%3Aneeds-triage%20-label%3Asig%2Fnetwork%20-label%3Asig%2Fbuild%20-label%3Asig%2Fgraphics-audio%20%20-label%3Asig%2Fcore%20-label%3Asig%2Fcontent%20-label%3Asig%2Fplatform%20-label%3Asig%2Fsimulation%20-label%3Asig%2Fdocs-community%20-label%3Asig%2Fui-ux%20-label%3Asig%2Frelease%20
 2. Main O3DE repository: 
    1. `OLD` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fnetwork
    2. `NEW` `works` https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+
