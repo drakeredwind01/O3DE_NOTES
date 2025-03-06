@@ -8,7 +8,7 @@ commenter:drakeredwind01
 suggest removing `needs-triage` `needs-sig` and adding `triage/accepted`, `sig-network`, and `sig-security`
 
 ## O3DE Network SIG - Issue Triage Guide
-https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+-label%3Asig%2Fnetwork++--label%3Asig%2Fbuild+--label%3Asig%2Fbuild+
+https://github.com/o3de/o3de/issues?q=is%3Aissue%20is%3Aopen%20label%3Aneeds-triage%20-label%3Asig%2Fnetwork%20%20--label%3Asig%2Fbuild%20--label%3Asig%2Fbuild%20%20--sig%2Fgraphics-audio%20%20--sig%2Fcontent
 
 1. Open issues with `needs-sig` label: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-sig
    1. `OLD` 
